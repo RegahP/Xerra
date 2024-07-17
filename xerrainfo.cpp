@@ -37,12 +37,12 @@ xerra taxonomy {
 						virtua {
 							//strength
 							terra
-							vitreus
+							iridas
 							aes
 						}
 						halcyon {
 							//temperance
-							ignis
+							arthas
 							helia
 							diruo
 						}
@@ -169,7 +169,7 @@ xerra taxonomy {
 		aes {
 			crafting, machinery, mechanics, weapons, tools,
 		}
-		ignis {
+		arthas {
 			heat, pressure, orange fire, blue fire, aurora, lightning, solar matter
 		}
 		helia {
