@@ -1,25 +1,25 @@
 xerra arc structure {
     essentia en busca de mira {
-        leo + mira duerme {
+        
+		::leo encuentra cristal
+		
+		leo + mira duerme {
+			
+			::leo juno tp facu
 			
         }
         leo + mira despierta + rebels en la tierra {
-			incidente en el chino {
 			
-			}
-			incidente en la huerta de mama {
-			
-			}
-			incidente droga de sylvia {
-			
-			}
+			::desaparece kiosquero
+			::plantas mutantes de mama
+			::sylvia trae zaza
 			++
 		}
 		++
 		the gang viajan a xerra {
-			yuii pom pom concert {
 			
-			}
+			::yuii pom pom concert
+			
 		}
     }
 }
@@ -57,26 +57,33 @@ xerra taxonomy {
 						}
 						procyon {
 							//death
+							ardenas
 							exera
-							eruptis
-							inaxis
+							morbo
 						}
 					}
-					omnia {
-						//everything
-						essentia //omnian plane
-						ethernia //aevus plane
-					}
+				}
+				essentia { //omnian plane
+					navitas //ascended form
+				}
+				ethernia { //aevus plane
+					desthinia //ascended form
 				}
 			}
 			aprimia {
 				//non fundamental entity
-				cruxarea {
-					//with headspace
-					xerrano / xerranos
+				anaturia {
+					//with free will
+					xerrano / xerranos {
+						//humanoid intelligent species
+						myxerian //from myxeria
+						vaxan //from vaxester
+						voxean //from vox
+						avean //from ave xahneda
+					}
 				}
-				acruxarea {
-					//without headspace
+				naturia {
+					//without free will
 					erradia / erradias //nomad creatures
 					hybria / hybrias //hybrid creatures
 					rexesia / rexesias //sedentary creatures
@@ -86,25 +93,19 @@ xerra taxonomy {
 		}
 
 		nihilixia {
-			//rejects enerxy
-			nil {
-				absentia
-			}
+			//anti-enerxy void entity
+			nil // void god
 		}
 	}
 
 	thaumology { //magic system
-		archimia {
-			//practice of equivalent exoergic transformation
-			suixia //self-composition
-			creana //matter mutation
+		archimia { 
+			//practice of equivalent exoergic matter transformation
+			suixia //body magic
+			creana //matter magic
 		}
-
-		ressuo {
-			//magic that connects dimensions
-			omnia //fourth-dimensional plane
-			aevus //fifth-dimensional plane
-		}
+		
+		somnia //practice of interaction with the dream domain
 	} 
 
 	skills { //ars-elemental ennumerated techniques 
@@ -119,7 +120,7 @@ xerra taxonomy {
 		aes {
 			cyber grind //steel pillars crush
 		}
-		ignis {
+		arthas {
 			black hole sun //solar core
 		}
 		helia {
@@ -142,20 +143,19 @@ xerra taxonomy {
 			
 		}
 		exera {
-			poison turtle
+			poison turtle //acid
 		}
 		morbo {
-			parasite eve
+			parasite eve //parasitical creature spawn
 			witness the death //ego-death experience
-			death kiss infinity
 		}
 		omnia {
 			pierce the veil //perforation of the omnia plane
 			goodbye to a world //planetary dissintegration
 		}
 		aevus {
-			moment
-			youthanasia
+			moment //recall an instance in the past with perfect accuracy
+			youthanasia //time burst someone into the past
 		}
 	} 
 
@@ -179,7 +179,7 @@ xerra taxonomy {
 			gravity magnitude & direction, levitation, aoe, compression, black holes
 		}
 		aeras {
-			wind, flight, clouds, sky properties, storm, hurricane, tornado
+			wind, pressure, flight, clouds, sky properties, storms, sound
 		}
 		fluxum {
 			humidity, vapor, mist, waves, rain, watershot, tsunami, 
@@ -197,10 +197,10 @@ xerra taxonomy {
 			pain, torment, depression, fear, sickness, disease, decay, death
 		}
 		omnia {
-			sound waves, light rays, distortions, wormholes, super black holes, mass destruction
+			light rays, distortions, aberrations, matter alteration, wormholes, super black holes, mass destruction
 		}
 		aevus {
-			time dilation, time stretch, time freeze, time reverse, time burst, aoe
+			time dilation, time stretch, time freeze, time reverse, time burst, aoe, mass creation
 		}
 	}
 
